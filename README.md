@@ -1,7 +1,7 @@
 ## Descripcion 📝
 Este es un portafolio creado con HTML, CSS, Javascript, PHP, MYSQL y con metodologia BEN
 
-# Autor ✒
+# Autor 🖋
 **Adrian Arraez**
 
 * [LinkedIn] (https://www.LinkedIn.com/in/adrian-arraez-233557346)
