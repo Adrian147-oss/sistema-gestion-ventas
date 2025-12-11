@@ -4,8 +4,8 @@ Este es un portafolio creado con HTML, CSS, Javascript, PHP, MYSQL y con metodol
 # Autor 🖋
 **Adrian Arraez**
 
-* [LinkedIn] (https://www.LinkedIn.com/in/adrian-arraez-233557346)
-* [Portafolio Web] (https://portafolioadrianarraez.42web.io/)
+* [LinkedIn](https://www.LinkedIn.com/in/adrian-arraez-233557346)
+* [Portafolio Web](https://portafolioadrianarraez.42web.io/)
 
 ## Instalacion 
 Este proyecto no necesita instalacion. Simplemente abre la carpeta 
